@@ -38,5 +38,4 @@ The project is organized into several packages and classes:
 ### Running the Application
 
 1. **Clone the Repository**:
-   git clone 
-   https://github.com/IRIvey/AttendanceManagement.git
+   git clone https://github.com/IRIvey/AttendanceManagement.git
