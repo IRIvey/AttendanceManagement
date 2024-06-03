@@ -1,4 +1,4 @@
-# Student Attendance Management System
+# Attendance Management System
 
 This is a Java-based application to manage student attendance. It provides a GUI to add, display, and update information about students, teachers, and their attendance records.
 
@@ -38,6 +38,5 @@ The project is organized into several packages and classes:
 ### Running the Application
 
 1. **Clone the Repository**:
-   ```sh
-   git clone https://github.com/yourusername/student-attendance-management.git
-   cd student-attendance-management
+   git clone 
+   https://github.com/IRIvey/AttendanceManagement.git
